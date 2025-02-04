@@ -14,3 +14,5 @@ Let's skip the knowledge refinement phase as a first pass. This can be added bac
 If any documents are irrelevant, let's opt to supplement retrieval with web search.
 We'll use Tavily Search for web search.
 Let's use query re-writing to optimize the query for web search.
+
+https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag.ipynb
